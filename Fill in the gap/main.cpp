@@ -10,7 +10,7 @@
 #include <vector>
 #include <list>
 
-using namespace std;
+using namespace std ;
 
 
 void Paint(int, int, vector < vector <int> >&);
